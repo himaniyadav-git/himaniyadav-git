@@ -1,7 +1,7 @@
 # Hi, I'm Himani Yadav 👋
 
 **Full-Stack Developer** · Python · JavaScript · REST APIs · Node.js  
-📍 Nagpur, India · 📬 himaniyadav1098@gmail.com · 🔍 Open to opportunities
+📍 Jabalpur, India · 📬 himaniyadav1098@gmail.com · 🔍 Open to opportunities
 
 ---
 
