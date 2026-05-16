@@ -1,6 +1,6 @@
 # Hi, I'm Himani Yadav 👋
 
-**Full-Stack Developer** · Python · JavaScript · REST APIs · Node.js  
+**Full-Stack Developer** · Python · Java . JavaScript · REST APIs · Node.js  
 📍 Jabalpur, India · 📬 himaniyadav1098@gmail.com · 🔍 Open to opportunities
 
 ---
@@ -65,10 +65,11 @@ Full CRUD REST API for a posts platform using Node.js, Express, and EJS. Covers 
 
 ---
 
-## GitHub Stats
-
-![Himani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaniyadav-git&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himaniyadav-git&layout=compact&theme=default&hide_border=true)
+## 📫 Currently
+- 🔍 Actively looking for junior/entry-level developer roles
+- 🌱 Learning: React, MongoDB, Mern Stack
+- 💬 Ask me about: Java, JavaScript, Python, REST APIs
+- ⚡ Fun fact: I built a Simon Says game from scratch!
 
 ---
 
@@ -79,4 +80,4 @@ I'm actively looking for my first developer role. If you're hiring or just want 
 📬 **himaniyadav1098@gmail.com**
 
 <!-- Add your LinkedIn URL below when ready -->
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE) -->
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/himani-yadav1098 ) 
